@@ -1,8 +1,9 @@
 ## K3s - Lightweight Kubernetes
 ===============================================
-Install Lightweight Kubernetes in a single Node
 
-Production ready, easy to install
+`Install Lightweight Kubernetes in a single Node`
+
+`Production ready, easy to install`
 
 
 ## Quick-Start - Install Script
